@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="learntatar20190930013844" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^B:\\Users\\garipoff\\source\\repos\\learn_tatar\\learn_tatar\\obj\\Release\\netcoreapp2\.2\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
