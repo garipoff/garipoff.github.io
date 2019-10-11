@@ -5,7 +5,6 @@ B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\bin\Release\netcoreapp2.2
 B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\bin\Release\netcoreapp2.2\learn_tatar.pdb
 B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\bin\Release\netcoreapp2.2\learn_tatar.Views.dll
 B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\bin\Release\netcoreapp2.2\learn_tatar.Views.pdb
-B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\obj\Release\netcoreapp2.2\learn_tatar.csprojAssemblyReference.cache
 B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\obj\Release\netcoreapp2.2\learn_tatar.csproj.CoreCompileInputs.cache
 B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\obj\Release\netcoreapp2.2\learn_tatar.RazorAssemblyInfo.cache
 B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\obj\Release\netcoreapp2.2\learn_tatar.RazorAssemblyInfo.cs
@@ -52,3 +51,4 @@ B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\obj\Release\netcoreapp2.2
 B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\obj\Release\netcoreapp2.2\learn_tatar.dll
 B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\obj\Release\netcoreapp2.2\learn_tatar.pdb
 B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\obj\Release\netcoreapp2.2\learn_tatar.csproj.CopyComplete
+B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\obj\Release\netcoreapp2.2\learn_tatar.csprojAssemblyReference.cache

@@ -51,3 +51,4 @@ B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\obj\Debug\netcoreapp2.2\R
 B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\obj\Debug\netcoreapp2.2\Razor\Pages\lesson_22.g.cshtml.cs
 B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\obj\Debug\netcoreapp2.2\Razor\Pages\lesson_23.g.cshtml.cs
 B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\obj\Debug\netcoreapp2.2\Razor\Pages\lesson_24.g.cshtml.cs
+B:\Users\garipoff\source\repos\learn_tatar\learn_tatar\obj\Debug\netcoreapp2.2\learn_tatar.csprojAssemblyReference.cache
